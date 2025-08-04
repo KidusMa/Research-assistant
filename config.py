@@ -2,6 +2,7 @@ import os
 from typing import Dict, Any
 from dataclasses import dataclass
 
+
 @dataclass
 class RAGConfig:
     """Configuration for the RAG Research Assistant"""
